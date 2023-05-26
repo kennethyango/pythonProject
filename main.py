@@ -4,5 +4,6 @@ def sum_digits(num):
         list.append(i)
     print(list)
     print(sum(list))
+    
 
 sum_digits(5)
