@@ -48,9 +48,9 @@
 #     range(3, 7)         3, 4, 5, 6
 #     range(2, 15, 3)    2, 5, 8, 11, 14
 #     range(9, 2, -1)    9, 8, 7, 6, 5, 4, 3
-
-for i in range(1,15,2):
-    print(i*'*  ')
+#
+# for i in range(1,15,2):
+#     print(i*'*  ')
 
 
 # *
@@ -59,6 +59,26 @@ for i in range(1,15,2):
 # ****
 # *****
 # ******
+
+# ForLoop Activity
+#  1.	Write a program that asks the user to enter a word
+# and then prints that word 25 times (each on separate lines).
+
+# word = input("Enter a word: ")
+# for i in range(25):
+#     print(word)
+
+# 2. User enters a word, prints that word 200 times on the same line
+# word = input("Enter a word: ")
+# for i in range(200):
+#     print(word, end='-')
+
+
+# 3. Write a for loop program, print
+#   5,6,7,8,9,...89,90, all on the same line
+#   separated by spaces
+# for i in range(5,91):
+#     print(i, end=' ')
 
 
 
