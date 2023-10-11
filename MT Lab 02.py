@@ -55,12 +55,12 @@
 #     print("Invalid Unit Input")
 
 # 3
-# INPUT temp
+# INPUT temps
 # < -273.15             below abs zero
 # = -273.15             abs zero
 # bet. -273.15 and 0    below freezing
 # 0                     freezing point
-# bet. 0 and 100        normal range
+# bet. 0 and 100        normal ranges
 # 100                   boiling point
 # above 100             above boiling point
 
